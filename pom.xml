@@ -6,7 +6,7 @@
 	<name>springboot simple application</name>
 	<description>基于 springboot 的简单应用</description>
 	<organization>
-		<url>https://github.com/marvelousness/springboot-learning-examples</url>
+		<url>https://github.com/marvelousness/springboot-simple-web</url>
 		<name>marvelousness</name>
 	</organization>
 	<properties>
