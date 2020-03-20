@@ -1,0 +1,15 @@
+debug: false
+server:
+   port: 8080
+spring:
+   application:
+      name: simple-web
+   thymeleaf:
+      cache: false
+      prefix: classpath:/templates/
+      suffix: .html
+      encoding: UTF-8
+      mode: HTML
+nodejs:
+   host: http://localhost:7070
+   entrance: /app.js
